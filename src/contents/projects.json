@@ -1,52 +1,45 @@
 [{
-  "name": "CV",
-  "description": "A simple, modern CV/resume template. This CV is built using this template.",
-  "github": "https://github.com/smddzcy/cv"
-}, {
-  "name": "Chrome Meme Search",
-  "description": "A Chrome extension that lets you make spotlight search for memes.",
-  "github": "https://github.com/smddzcy/chrome-meme-search"
-}, {
-  "name": "BounCoursePlanner",
-  "description": "Course schedule planner for Boğaziçi University students. Finds the best schedule for a set of courses, which has the least conflicts and most free hours.",
-  "github": "https://github.com/smddzcy/BounCoursePlanner",
-  "link": "https://smddzcy.com/BounCoursePlanner/"
-}, {
-  "name": "BUEvents",
-  "description": "Events calendar for Boğaziçi University. It's the only events calendar since there isn't any official one.",
-  "github": "https://github.com/smddzcy/BUEvents",
-  "link": "https://smddzcy.com/BUEvents/"
-}, {
-  "name": "BUYemek",
-  "description": "An iOS app for Boğaziçi University's cafeteria. There is also a separate project for its <a href=\"https://github.com/smddzcy/BUYemek\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">REST API</a>.",
-  "github": "https://github.com/smddzcy/BUYemek-iOS"
-}, {
-  "name": "SkateMate",
-  "description": "SkateMate enables skaters to find and share new spots, and connect with each other in real-time. It was our ENG 493 - Launching a Successful Software Startup course project in 2016 Fall term, at Boğaziçi University. I was responsible for the development of the mobile application (cross-platform, built with Ionic).",
-  "github": "https://github.com/smddzcy/SkateMate",
-  "link": "http://www.getskatemate.com/"
-}, {
-  "name": "Panic Bracelet",
-  "description": "A smart bracelet that shows you the probability of being harassed in a neighborhood, and sends a message to your loved ones and the police when pressed.",
-  "github": "https://github.com/smddzcy/hackathon-techsummit-2017"
-}, {
-  "name": "Wower",
-  "description": "An app for cyber attack protection which protects the user's files and tracks the attacker.",
-  "github": "https://github.com/smddzcy/Wower"
-}, {
-  "name": "WowDoor",
-  "description": "An IoT device that gives the ability to lock &amp; unlock doors with a smartphone.",
-  "github": "https://github.com/smddzcy/WowDoor"
-}, {
-  "name": "EngelsizMenu",
-  "description": "Accessible, easy-to-use restaurant menu app for visually impaired.",
-  "github": "https://github.com/smddzcy/EngelsizMenu"
-}, {
-  "name": "IlanTakip",
-  "description": "Automatic tracking system for some real-estate listing sites in Turkey.",
-  "github": "https://github.com/smddzcy/ilanTakip"
-}, {
-  "name": "dekrypt",
-  "description": "A command-line tool for automatic decryption/decipher of a number of encryption/cipher algorithms.",
-  "github": "https://github.com/smddzcy/dekrypt"
-}]
+    "name": "A Study on Resilience of Bayesian Neural Networks",
+    "description": "Our aim is to discuss the fault tolerance of different Bayesian models against random bit errors. We used 4 Bayesian models, MC Dropout, Ensemble, MC Ensemble and variational inference. We evaluated performance under 4 criteria, test accuracy, bit error injection results, AUC metric and behavior under uncertainty.",
+    "github": ""
+  },
+  {
+    "name": "MBET: Multiple Bit Error-rate Training",
+    "description": "Multiple Bit Error-rate Training (MBET) aims to improve the fault tolerance of the DNN model with using more than one bit error rates. During the training, we inject bit errors with different rates and combine the corresponding loss values.",
+    "github": ""
+  },
+  {
+    "name": "Relationship Between Robustness and Resilience of DNNs",
+    "description": "We examine and compare how effective DNN robustness and resilience improvement techniques are against hardware-level bit-error-injections and adversarial attacks. We find that bit-error training is not only an effective tool for resilience improvement, but it also improves the robust accuracy.",
+    "github": ""
+  },
+  {
+    "name": "A Comparison of Subword Tokenization Methods for English to Turkish Neural Machine Translation",
+    "description": "We focus on the effect of using different tokenization methods on Neural Machine Translation (NMT). We tested byte pair encoding (BPE), morphological analysis and a combined tokenization method of BPE and morphological analysis. We worked as a group of two. <br /> Final Project of CMPE58T.",
+    "github": ""
+  },
+  {
+    "name": "Speech Emotion Recognition using Recurrent Neural Networks",
+    "description": "We extracted features from speech data. We compared the performance of RNN, LSTM and bidirectional LSTM. Additionally, we tested the effect of using first and second derivatives as input. We worked as a group of two. <br /> Final Project of DT2119.",
+    "github": ""
+  },
+  {
+    "name": "Best Style Detection for Neural Style Transfer",
+    "description": "We reimplemented original style transfer method using convolutional neural networks. Additionally, we proposed a greedy method to decrease computations for style transfer. We added an additional loss term which represents the style loss between the generated image and the content image. We worked as a group of three. <br /> Final Project of DD2421.",
+    "github": ""
+  },
+  {
+    "name": "Mokemon",
+    "description": "A multi-user turn based battle game. Users can create and join rooms. Users can fight against each other. The project is implemented with Python with 'socket' library for server and client comunication and 'tkinter' library for GUI. We worked as a group of two. <br /> Final Project of CMPE487.",
+    "github": ""
+  },
+  {
+    "name": "PDF-Share",
+    "description": "Share the active page of PDF file across android devices. Users can share PDF files and other users can follow the active page. When the master user changes the current page, the page shown for other users is also updated. The project is implemented in Java with Android Studio. <br />Final project of CMPE436.",
+    "github": "https://github.com/muratbuldu/pdfshare"
+  },
+  {
+    "name": "YALLP",
+    "description": "We build a language learning platform as a team. User can take a quiz to determine language level, send message to other users, can post and annotate writings on proposed topics, check notifications and so on. I was responsible for frontend and implement frontend with React and Redux. <br />Course Project of CMPE451.",
+    "github": "https://github.com/bounswe/bounswe2019group10"
+  }]

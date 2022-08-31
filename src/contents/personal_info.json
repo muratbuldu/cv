@@ -1,27 +1,20 @@
 {
-  "name": "Samed Duzcay",
-  "profession": "Software Engineer",
-  "summary": "A confident, self-motivated software engineer with 6 years of experience in software development. A deep researcher and a passionate learner in every aspect of his life, with good analytical and verbal skills.",
-  "mail": "samedduzcay@gmail.com",
+  "name": "Abdullah Murat Buldu",
+  "profession": "",
+  "summary": "Curious, self-motivated, challanger and team player.",
+  "mail": "a.muratbuldu@gmail.com",
+  "phone": "+905336314577",
   "address": {
     "title": "Istanbul, Turkey",
-    "url": "https://www.google.com.tr/maps/@41.0847699,29.0492408,16.39z"
-  },
-  "personal_site": {
-    "title": "smddzcy.com",
-    "url": "https://smddzcy.com/"
+    "url": ""
   },
   "github": {
-    "title": "github.com/smddzcy",
-    "url": "https://github.com/smddzcy"
+    "title": "github.com/muratbuldu",
+    "url": "https://github.com/muratbuldu"
   },
   "linkedin": {
-    "title": "linkedin.com/in/smddzcy",
-    "url": "https://www.linkedin.com/in/smddzcy"
+    "title": "linkedin.com/in/muratbuldu",
+    "url": "https://www.linkedin.com/in/muratbuldu/"
   },
-  "hackerrank": {
-    "title": "hackerrank.com/smddzcy",
-    "url": "https://www.hackerrank.com/smddzcy"
-  },
-  "google_analytics": "UA-43755905-9"
+  "google_analytics": ""
 }

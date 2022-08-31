@@ -1,0 +1,23 @@
+[
+    {
+        "name": "MBET: Resilience Improvement Method for DNNs",
+        "conference": "<a href='http://ieeetests.com' target=\"_blank\">The 4th IEEE International Conference on Artificial Intelligence Testing (AITEST)</a>",
+        "description": "",
+        "github": "",
+        "date": "08/2022"
+    },
+    {
+        "name": "Multiple Bit Error Rate Training",
+        "conference": "<a href='https://ai-treats-workshop.aalto.fi/' target=\"_blank\">AI Hardware: Test, Reliability and Security (AI-TREATS)</a>",
+        "description": "",
+        "github": "",
+        "date": "05/2022"
+    },
+    {
+        "name": "Relationship Between Robustness and Resilience of DNNs",
+        "conference": "<a href='https://ai-treats-workshop.aalto.fi/' target=\"_blank\">AI Hardware: Test, Reliability and Security (AI-TREATS)</a>",
+        "description": "",
+        "github": "",
+        "date": "05/2022"
+    }
+]

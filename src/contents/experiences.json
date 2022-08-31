@@ -1,64 +1,50 @@
 [{
-  "company": "Infoset",
-  "role": "Co-Founder",
+  "company": "SRC Research Scholars Program",
+  "role": "Research Scholar",
   "date": "01/2020 - Present",
-  "location": "Istanbul, Turkey",
   "description_bullets": [
-    "Building advanced communication and marketing solutions for businesses: <a href=\"https://infoset.app/\" target=\"_blank\" title=\"cloud call center, sales management, customer support\">https://infoset.app/</a>"
+    "Improving robustness and resilience of deep neural networks."
   ]
 }, {
-  "company": "Freelance",
-  "role": "Software Engineer",
-  "date": "02/2019 - 01/2020",
+  "company": "Intel Labs - India",
+  "role": "Graduate Technical Intern (Remote)",
+  "date": "08/2021 - 05/2022",
   "description_bullets": [
-    "Helped numerous companies including Christian Dior, L'Oreal, EasyKnock as a contractor software engineer / software architect."
+    "Developed graph neural network models for Electronic Design Automation task."
   ]
 }, {
-  "company": "Lisa AI",
-  "role": "Co-Founder",
-  "date": "09/2018 - 02/2019",
-  "location": "Istanbul, Turkey",
+  "company": "Artiwise",
+  "role": "Software Developer",
+  "date": "06/2019 - 08/2019",
   "description_bullets": [
-    "Built parts of the mobile app of Lisa (with React Native). ",
-    "Built parts of the backend architecture and big-data infrastructure using Hadoop, HBase, Phoenix, Spark."
+    "Developed different deep learning mod- els for NLP tasks and built necessary ser- vices for web application."
   ]
 }, {
-  "company": "Pisano",
-  "role": "Lead Software Engineer",
-  "date": "09/2017 - 11/2018",
-  "location": "Istanbul, Turkey",
+  "company": "Triodor ARGE",
+  "role": "Data Analyst Intern",
+  "date": "06/2018 - 08/2018",
   "description_bullets": [
-    "Designed the architecture of, built (with Scala), and deployed Pisano Analytics.",
-    "Organized the first Pisano Hackathon. (https://hackathon.pisano.co/)",
-    "Led the web product team for 5 months. Designed the new architecture of <a href=\"https://www.pisano.co/en/widget-channels/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Pisano Web Widget</a> and built most of the production system.",
-    "Extensively used ES6/ES7, React, Redux, Redux-Saga."
+    "Worked on milk production data and built models with RNNs. Analyzed cow location data."
   ]
 }, {
-  "company": "Google",
-  "role": "Software Engineering Intern",
-  "date": "06/2017 - 09/2017",
-  "location": "Zürich, Switzerland",
+  "company": "Innova",
+  "role": "Intern",
+  "date": "08/2017 - 09/2017",
   "description_bullets": [
-    "Built and tested the backend of a mid-size product feature.",
-    "Built a pipeline to collect user statistics and do data analysis."
+    "Worked on Big Data with Laravel and MongoDB. Practised data mining and some machine learning algorithms in Python and Azure Machine Learning Studio."
   ]
 }, {
-  "company": "Pisano",
-  "role": "Software Engineer",
-  "date": "06/2016 - 06/2017",
-  "location": "Istanbul, Turkey",
+  "company": "Algosis",
+  "role": "Android Developer Intern",
+  "date": "06/2017 - 08/2017",
   "description_bullets": [
-    "Full-stack web development using Ruby on Rails, AngularJS, CoffeeScript, HTML5, LESS.",
-    "Worked in a team-based development environment using agile methodologies like Kanban and Scrum.",
-    "Built, tested and successfully launched the key web product Pisano Web Widget."
+    "Worked on an Android application called Miks Invest."
   ]
 }, {
-  "company": "Boğaziçi University Entrepreneurship Center",
+  "company": "COMPEC- Bogazici Computer Engineering Club",
   "role": "Development Team Leader",
-  "date": "09/2016 - 06/2017",
-  "location": "Istanbul, Turkey",
+  "date": "09/2015 - 06/2016",
   "description_bullets": [
-    "Was in charge of a team of 6 people.",
-    "Built and deployed the new web application of the entrepreneurship center called \"Bright\" using PHP (Laravel) and JS (ES6)."
+    "The goal of the team is making web applications for the events of COMPEC: Bogazici Bilisim Odulleri, Bogazici Tech- summit..."
   ]
 }]
