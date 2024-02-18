@@ -20,7 +20,7 @@
   },
   {
     "name": "Speech Emotion Recognition using Recurrent Neural Networks",
-    "description": "We extracted features from speech data. We compared the performance of RNN, LSTM and bidirectional LSTM. Additionally, we tested the effect of using first and second derivatives as input. We worked as a group of two. <br /> Final Project of DT2119.",
+    "description": "The aim is to test the effect of different model types and inputs on speech emotion recognition. We extracted features from speech data. We compared the performance of RNN, LSTM and bidirectional LSTM. Additionally, we tested the effect of using first and second derivatives as input. We worked as a group of two. <br /> Final Project of DT2119.",
     "github": ""
   },
   {
@@ -40,6 +40,6 @@
   },
   {
     "name": "YALLP",
-    "description": "We build a language learning platform as a team. User can take a quiz to determine language level, send message to other users, can post and annotate writings on proposed topics, check notifications and so on. I was responsible for frontend and implement frontend with React and Redux. <br />Course Project of CMPE451.",
+    "description": "We build a language learning platform as a team. User can take a quiz to determine language level, send messages to other users, can post and annotate writings on proposed topics, check notifications and so on. I was responsible for frontend and implemented frontend with React and Redux. <br />Course Project of CMPE451.",
     "github": "https://github.com/bounswe/bounswe2019group10"
   }]
