@@ -1,4 +1,11 @@
-[{
+[
+  {
+    "name": "Boğaziçi University",
+    "degree": "PHD in Computer Engineering",
+    "date": "09/2024 - Present",
+    "description": ""
+  },
+  {
   "name": "Boğaziçi University",
   "degree": "M.S. Computer Engineering",
   "date": "01/2020 - 02/2023",

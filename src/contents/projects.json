@@ -27,19 +27,5 @@
     "name": "Best Style Detection for Neural Style Transfer",
     "description": "We reimplemented original style transfer method using convolutional neural networks. Additionally, we proposed a greedy method to decrease computations for style transfer. We added an additional loss term which represents the style loss between the generated image and the content image. We worked as a group of three. <br /> Final Project of DD2421.",
     "github": ""
-  },
-  {
-    "name": "Mokemon",
-    "description": "A multi-user turn based battle game. Users can create and join rooms. Users can fight against each other. The project is implemented with Python with 'socket' library for server and client comunication and 'tkinter' library for GUI. We worked as a group of two. <br /> Final Project of CMPE487.",
-    "github": ""
-  },
-  {
-    "name": "PDF-Share",
-    "description": "Share the active page of PDF file across android devices. Users can share PDF files and other users can follow the active page. When the master user changes the current page, the page shown for other users is also updated. The project is implemented in Java with Android Studio. <br />Final project of CMPE436.",
-    "github": "https://github.com/muratbuldu/pdfshare"
-  },
-  {
-    "name": "YALLP",
-    "description": "We build a language learning platform as a team. User can take a quiz to determine language level, send messages to other users, can post and annotate writings on proposed topics, check notifications and so on. I was responsible for frontend and implemented frontend with React and Redux. <br />Course Project of CMPE451.",
-    "github": "https://github.com/bounswe/bounswe2019group10"
-  }]
+  }
+]
