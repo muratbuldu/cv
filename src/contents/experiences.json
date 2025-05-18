@@ -1,6 +1,6 @@
 [{
     "company": "Ford Otosan",
-    "role": "Autonomous Vehicles Engineer",
+    "role": "Computer Vision Research Engineer",
     "date": "12/2022 - Present",
     "description_bullets": [
       "Developing Segmentation, 2D & 3D Object Detection models for the perception problem for autonomous driving."
