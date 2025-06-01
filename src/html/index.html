@@ -97,7 +97,7 @@
                 <h2>{{school.name | trim}}</h2>
               </div>
               <!--(bake-start _if="school.date")-->
-              <h6 class="date">{{school.date | trim}}</h6>
+              <h6 class="date">{{school.date | trim}}&nbsp&nbsp&nbsp&nbsp&nbsp</h6>
               <!--(bake-end)-->
             </div>
             <!--(bake-start _if="school.description")-->
@@ -114,7 +114,7 @@
           <!--(bake-start _foreach="conference:conferences")-->
           <section class="conference">
             <div class="flex-row flex-space-between">
-              <div class="padding-right-10">
+              <div class="padding-right-8">
                 <h1>{{conference.name | trim}}</h1>
                 <!--(bake-start _if="conference.conference")-->
                 <h2>{{conference.conference | trim}}</h2>
@@ -122,7 +122,7 @@
               </div>
               <div class="experience-dateloc">
                 <!--(bake-start _if="conference.date")-->
-                <h6 class="date">{{conference.date | trim}}</h6>
+                <h6 class="date">{{conference.date | trim}}&nbsp&nbsp&nbsp&nbsp&nbsp</h6>
                 <!--(bake-end)-->
                 <!--(bake-start _if="conference.location")-->
                 <h6 class="location">{{conference.location | trim}}</h6>

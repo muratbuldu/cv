@@ -3,7 +3,9 @@
     "role": "Computer Vision Research Engineer",
     "date": "12/2022 - Present",
     "description_bullets": [
-      "Developing Segmentation, 2D & 3D Object Detection models for the perception problem for autonomous driving."
+      "Developed and deployed convolutional multi-task learning models for autonomous driving perception, including segmentation, 2D, and 3D object detection.",
+      "Trained models using PyTorch with multi-GPU support and Determined AI for scalable training and inference.",
+      "Optimized and deployed algorithms to NVIDIA platforms using ONNX and TensorRT, enabling real-time end-to-end perception solutions."
     ]
   },
   {
